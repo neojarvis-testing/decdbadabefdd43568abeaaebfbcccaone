@@ -1,0 +1,15 @@
+D:\NewSampleProject\ProductDisplay\bin\Debug\net6.0\ProductDisplay.exe
+D:\NewSampleProject\ProductDisplay\bin\Debug\net6.0\ProductDisplay.deps.json
+D:\NewSampleProject\ProductDisplay\bin\Debug\net6.0\ProductDisplay.runtimeconfig.json
+D:\NewSampleProject\ProductDisplay\bin\Debug\net6.0\ProductDisplay.dll
+D:\NewSampleProject\ProductDisplay\bin\Debug\net6.0\ProductDisplay.pdb
+D:\NewSampleProject\ProductDisplay\obj\Debug\net6.0\ProductDisplay.csproj.AssemblyReference.cache
+D:\NewSampleProject\ProductDisplay\obj\Debug\net6.0\ProductDisplay.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewSampleProject\ProductDisplay\obj\Debug\net6.0\ProductDisplay.AssemblyInfoInputs.cache
+D:\NewSampleProject\ProductDisplay\obj\Debug\net6.0\ProductDisplay.AssemblyInfo.cs
+D:\NewSampleProject\ProductDisplay\obj\Debug\net6.0\ProductDisplay.csproj.CoreCompileInputs.cache
+D:\NewSampleProject\ProductDisplay\obj\Debug\net6.0\ProductDisplay.dll
+D:\NewSampleProject\ProductDisplay\obj\Debug\net6.0\refint\ProductDisplay.dll
+D:\NewSampleProject\ProductDisplay\obj\Debug\net6.0\ProductDisplay.pdb
+D:\NewSampleProject\ProductDisplay\obj\Debug\net6.0\ProductDisplay.genruntimeconfig.cache
+D:\NewSampleProject\ProductDisplay\obj\Debug\net6.0\ref\ProductDisplay.dll
